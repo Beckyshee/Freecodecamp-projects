@@ -1,2 +1,2 @@
-# Freecodecamp-projects
+
 Javascript Projects
